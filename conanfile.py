@@ -3,7 +3,7 @@ from   distutils.dir_util import copy_tree
 
 class BgfxConan(ConanFile):
     name            = "bgfx"
-    version         = "7188"
+    version         = "1.115.7933-417f8b8"
     description     = "Conan package for bgfx."
     url             = "https://github.com/bkaradzic/bgfx"
     license         = "BSD"
